@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/actualPortfolio/static/css/main.f8fb60f5.chunk.css",
+    "main.js": "/actualPortfolio/static/js/main.431f459f.chunk.js",
+    "main.js.map": "/actualPortfolio/static/js/main.431f459f.chunk.js.map",
+    "runtime-main.js": "/actualPortfolio/static/js/runtime-main.230b52d6.js",
+    "runtime-main.js.map": "/actualPortfolio/static/js/runtime-main.230b52d6.js.map",
+    "static/js/2.15939b72.chunk.js": "/actualPortfolio/static/js/2.15939b72.chunk.js",
+    "static/js/2.15939b72.chunk.js.map": "/actualPortfolio/static/js/2.15939b72.chunk.js.map",
+    "index.html": "/actualPortfolio/index.html",
+    "precache-manifest.15a797e8c86be2aff0730be62270e059.js": "/actualPortfolio/precache-manifest.15a797e8c86be2aff0730be62270e059.js",
+    "service-worker.js": "/actualPortfolio/service-worker.js",
+    "static/css/main.f8fb60f5.chunk.css.map": "/actualPortfolio/static/css/main.f8fb60f5.chunk.css.map",
+    "static/js/2.15939b72.chunk.js.LICENSE.txt": "/actualPortfolio/static/js/2.15939b72.chunk.js.LICENSE.txt",
+    "static/media/ServiceComponent.css": "/actualPortfolio/static/media/back2.0fa0030b.png",
+    "static/media/SkillsComponent.css": "/actualPortfolio/static/media/back3.16e529ce.png",
+    "static/media/PortfolioComponent.css": "/actualPortfolio/static/media/circle.cfc539ea.png",
+    "static/media/css.svg": "/actualPortfolio/static/media/css.28ee7098.svg",
+    "static/media/expressjs.svg": "/actualPortfolio/static/media/expressjs.9de32921.svg",
+    "static/media/fassos_image.png": "/actualPortfolio/static/media/fassos_image.1da2e4e6.png",
+    "static/media/fw10_199_Kabi_Gadal.pdf": "/actualPortfolio/static/media/fw10_199_Kabi_Gadal.348811ab.pdf",
+    "static/media/javascript.svg": "/actualPortfolio/static/media/javascript.c0a6a539.svg",
+    "static/media/myPhoto1.jpeg": "/actualPortfolio/static/media/myPhoto1.cf553621.jpeg",
+    "static/media/nodeJs.svg": "/actualPortfolio/static/media/nodeJs.6c5a89ce.svg",
+    "static/media/pepperfry_1.jfif": "/actualPortfolio/static/media/pepperfry_1.53be0dda.jfif",
+    "static/media/purple_image.png": "/actualPortfolio/static/media/purple_image.80c1018d.png",
+    "static/media/reactjs.svg": "/actualPortfolio/static/media/reactjs.91b0953e.svg",
+    "static/media/redux.svg": "/actualPortfolio/static/media/redux.15b11dc3.svg",
+    "static/media/shopperstop_image.png": "/actualPortfolio/static/media/shopperstop_image.0ea071af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.230b52d6.js",
+    "static/js/2.15939b72.chunk.js",
+    "static/css/main.f8fb60f5.chunk.css",
+    "static/js/main.431f459f.chunk.js"
+  ]
+}
