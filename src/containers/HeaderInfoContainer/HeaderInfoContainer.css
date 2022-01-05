@@ -1,0 +1,9 @@
+.header-info {
+  align-items: center;
+  display: flex;
+  padding-top: calc(var(--padding-big, 6rem) + 94px);
+  padding-bottom: var(--padding-big, 6rem);
+  text-align: center;
+  color: var(--text-color);
+  height: 100vh;
+}
